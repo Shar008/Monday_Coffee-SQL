@@ -36,6 +36,13 @@ Identify top 3 city based on highest sales, return city name, total sale, total 
 
 
 
+ERD for database used
+
+![ERD ](https://github.com/user-attachments/assets/b9406fdd-9652-421b-8b8d-afa119649ed9)
+
+
+
+
 Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
